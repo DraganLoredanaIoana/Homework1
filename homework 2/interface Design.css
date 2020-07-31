@@ -1,0 +1,34 @@
+
+.box{
+    margin:1.66%;
+    background-color:white ;
+    position: relative;
+}
+
+.flex-box.{
+  position: relative;
+}
+.column {
+    float: left;
+    width: 30%;
+    padding: 20px;
+  }
+
+  .box h1{
+font-family: 'Muli', sans-serif;
+font-size: x-large;
+float: left;
+padding-right: 20%;
+
+}
+h1{
+  text-align: center;
+}
+
+
+.star {
+  color: orange;
+size: 200%;
+
+}
+   
